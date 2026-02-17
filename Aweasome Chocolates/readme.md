@@ -1,6 +1,6 @@
 # Awesome Chocolates – Sales & Revenue Analysis - Power BI Project
 ## 📊 Project Overview
-This project focuses on analysing sales and revenue data of Awesome Chocolates to identify performance trends, product profitability, and regional sales distribution. The dashboard helps in understanding revenue growth patterns and business performance metrics.
+This project focuses on analysing sales and revenue data of a chocolate factory named Awesome Chocolates to identify performance trends, product profitability, and regional sales distribution. The dashboard helps in understanding revenue growth patterns and business performance metrics.
 
 ## 🛠 Tools Used
 - Power BI
