@@ -11,8 +11,7 @@ This project focuses on analysing sales and revenue data of a chocolate factory 
 ## 📁 Project Files (Google Drive)
 Due to GitHub file size limitations, the Power BI (.pbix) file and dataset are stored in Google Drive.
 
-🔗 Access project files here:
-https://drive.google.com/drive/folders/1LNeWAG8UYltrVcOBOPs58Z3cSIBT7BpY?usp=sharing
+🔗 [Access project files here](https://drive.google.com/drive/folders/1LNeWAG8UYltrVcOBOPs58Z3cSIBT7BpY?usp=sharing)
 
 ## 📌 Key Analysis & Insights
 - Identified top-performing products based on revenue and profit margin.
